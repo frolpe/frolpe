@@ -4,10 +4,15 @@ Me llamo Francisco y estudio en la facultad de informatica de la UAQ
 
 ## Hobbies 
 - Programación
-    - JQuery
+    - jQuery
     - PHP
     - SQL
     - Pÿthon
+
+- Frameworks
+    - React
+    - Next.js
+    - Laravel
 
 ## Mi mascota
 

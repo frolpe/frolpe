@@ -7,6 +7,7 @@ Me llamo Francisco y estudio en la facultad de informatica de la UAQ
     - jQuery
     - PHP
     - SQL
+    - JavaScript
     - Pÿthon
 
 - Frameworks

@@ -19,3 +19,17 @@ Me llamo Francisco y estudio en la facultad de informatica de la UAQ
 
 ![Foto de mi mascota](estopa.jpeg)
 
+## Mi quote favorita
+
+> Divide y venceras
+
+## Código
+
+```Javascript
+console.log("Hello World");
+```
+```python
+print("Hello World");
+```
+```html
+<p>Hello word</p>
